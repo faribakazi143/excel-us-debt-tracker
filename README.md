@@ -17,13 +17,13 @@ Analyzed US public and governmental debt data (2015–2023). Built a full intera
 
 **Screenshots**
 
-![Scenario & Questions](excel-us-debt-tracker-1.png)  
-![Raw Data](excel-us-debt-tracker.png)  
-![Cleaned Data](excel-us-debt-tracker-3.png)  
-![Yearly Percentage Change](excel-us-debt-tracker-4.png)  
-![Monthly Analysis](excel-us-debt-tracker-5.png)  
-![Projected Growth](excel-us-debt-tracker-6.png)  
-![Final Dashboard](excel-us-debt-tracker-7.png)
+![Scenario](excel-us-debt-tracker%201.png)  
+![Raw Data](excel-us-debt-tracker%202.png)  
+![Cleaned Data](excel-us-debt-tracker%203.png)  
+![Yearly Change](excel-us-debt-tracker%204.png)  
+![Monthly Analysis](excel-us-debt-tracker%205.png)  
+![Projected Growth](excel-us-debt-tracker%206.png)  
+![Final Dashboard](excel-us-debt-tracker%207.png)
 
 **Project Files**
-- `us_debt_tracker.xlsx` → Complete Excel workbook with all tabs, calculations, and interactive dashboard
+- `US Debt Tracker Project | Fariba Kazi.xlsx` → Complete Excel workbook with all tabs, calculations, and interactive dashboard
